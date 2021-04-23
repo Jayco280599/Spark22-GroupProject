@@ -2999,7 +2999,8 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
-			margin-left: 4em;
+			margin-left: 5em;
+			margin-right: 5em;
 			padding: 0.65em;
 			border-radius: 100%;
 			border: solid 1px;
